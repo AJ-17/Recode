@@ -79,19 +79,19 @@ g++ -std=c++17 \
 ./client
 ```
 ## Example Test Case Sending a SSH-Private key
-![build-client]("https://drive.google.com/file/d/1Yph6SkAFlmCvwhl3wLB7yrg9itdzfEre/view?usp=sharing")
+![build-client]("1.png")
 
-![build-server]("https://drive.google.com/file/d/1s8nC6AwlUthGJVHU9payCw0mn8EqSX3m/view?usp=sharing")
+![build-server]("2.png")
 
-![client-1]("https://drive.google.com/file/d/1lvxJsFIsEeymeRwK5h2CQak_NSwzydW1/view?usp=sharing")
+![client-1]("3.png")
 
-![client-2]("https://drive.google.com/file/d/1fz2Y9oNsH5NfqFls6nZ-QEVyGdtBR9BV/view?usp=sharing")
+![client-2]("4.png")
 
-![server-1]("https://drive.google.com/file/d/1wOAtlLhqNtf7s8MYGqEY9-6Eup73-yv7/view?usp=sharing")
+![server-1]("5.png")
 
-![server-2]("https://drive.google.com/file/d/1lhDn8v6ol_eQstXvvD4Ee-t46vHLi3J4/view?usp=sharing")
+![server-2]("6.png")
 
-![server-3]("https://drive.google.com/file/d/1mMae9DrPlQu6yFUbyB6BgdWVkRw_Do6l/view?usp=sharing")
+![server-3]("7.png")
 
 
 
