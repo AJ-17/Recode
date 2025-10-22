@@ -87,7 +87,7 @@ g++ -std=c++17 \
 
 ![client-2](images/4.png)
 
-![server-1](images/5.png")
+![server-1](images/5.png)
 
 ![server-2](images/6.png)
 
