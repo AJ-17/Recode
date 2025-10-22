@@ -79,19 +79,19 @@ g++ -std=c++17 \
 ./client
 ```
 ## Example Test Case Sending a SSH-Private key
-![build-client]("1.png")
+![build-client](images/1.png)
 
-![build-server]("2.png")
+![build-server](images/2.png)
 
-![client-1]("3.png")
+![client-1](images/3.png)
 
-![client-2]("4.png")
+![client-2](images/4.png)
 
-![server-1]("5.png")
+![server-1](images/5.png")
 
-![server-2]("6.png")
+![server-2](images/6.png)
 
-![server-3]("7.png")
+![server-3](images/7.png)
 
 
 
